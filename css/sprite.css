@@ -1,0 +1,144 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-cross {
+  background-image: url(sprite.png);
+  background-position: -639px -36px;
+  width: 30px;
+  height: 30px;
+}
+.icon-email_24x24 {
+  background-image: url(sprite.png);
+  background-position: -762px -36px;
+  width: 24px;
+  height: 24px;
+}
+.icon-form_icon_1 {
+  background-image: url(sprite.png);
+  background-position: -684px -36px;
+  width: 25px;
+  height: 30px;
+}
+.icon-form_icon_2 {
+  background-image: url(sprite.png);
+  background-position: 0px -93px;
+  width: 18px;
+  height: 30px;
+}
+.icon-form_icon_3 {
+  background-image: url(sprite.png);
+  background-position: -724px -36px;
+  width: 23px;
+  height: 30px;
+}
+.icon-form_icon_4 {
+  background-image: url(sprite.png);
+  background-position: -594px -36px;
+  width: 30px;
+  height: 30px;
+}
+.icon-green_line {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 1170px;
+  height: 3px;
+}
+.icon-green_line_mini {
+  background-image: url(sprite.png);
+  background-position: 0px -18px;
+  width: 431px;
+  height: 3px;
+}
+.icon-pen {
+  background-image: url(sprite.png);
+  background-position: -543px -36px;
+  width: 36px;
+  height: 34px;
+}
+.icon-phone {
+  background-image: url(sprite.png);
+  background-position: -488px -36px;
+  width: 40px;
+  height: 39px;
+}
+.icon-phone24x24 {
+  background-image: url(sprite.png);
+  background-position: -840px -36px;
+  width: 24px;
+  height: 23px;
+}
+.icon-point24x24 {
+  background-image: url(sprite.png);
+  background-position: -801px -36px;
+  width: 24px;
+  height: 23px;
+}
+.icon-red_line_mini {
+  background-image: url(sprite.png);
+  background-position: -446px -18px;
+  width: 431px;
+  height: 3px;
+}
+.icon-sub_img_1 {
+  background-image: url(sprite.png);
+  background-position: -374px -36px;
+  width: 42px;
+  height: 42px;
+}
+.icon-sub_img_1_hover {
+  background-image: url(sprite.png);
+  background-position: -431px -36px;
+  width: 42px;
+  height: 42px;
+}
+.icon-sub_img_2 {
+  background-image: url(sprite.png);
+  background-position: -66px -36px;
+  width: 51px;
+  height: 42px;
+}
+.icon-sub_img_2_hover {
+  background-image: url(sprite.png);
+  background-position: 0px -36px;
+  width: 51px;
+  height: 42px;
+}
+.icon-sub_img_3 {
+  background-image: url(sprite.png);
+  background-position: -194px -36px;
+  width: 47px;
+  height: 42px;
+}
+.icon-sub_img_3_hover {
+  background-image: url(sprite.png);
+  background-position: -132px -36px;
+  width: 47px;
+  height: 42px;
+}
+.icon-sub_img_4 {
+  background-image: url(sprite.png);
+  background-position: -315px -36px;
+  width: 44px;
+  height: 42px;
+}
+.icon-sub_img_4_hover {
+  background-image: url(sprite.png);
+  background-position: -256px -36px;
+  width: 44px;
+  height: 42px;
+}

@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: 'evolventa';
+    src: url('10359-webfont.eot');
+    src: url('10359-webfont.eot?#iefix') format('embedded-opentype'),
+         url('10359-webfont.woff2') format('woff2'),
+         url('10359-webfont.woff') format('woff'),
+         url('10359-webfont.svg#evolventaregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
